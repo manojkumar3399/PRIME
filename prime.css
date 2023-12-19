@@ -1,0 +1,228 @@
+.navbar{
+    height: 20x;
+    background-color: black;
+    
+}
+.navbar-brand{
+    color: whitesmoke;
+    font-weight: 600;
+}
+.collapse ul li{
+margin-left: 30px;
+
+}
+.collapse ul li a{
+
+    color: darkgray;
+    font-weight: 500;
+    font-size: large;
+}
+.center{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+.naga{
+    width: 500px;
+    height: 550px;
+    float: right;
+    margin-right: 250px;
+
+}
+h2{
+    position: absolute;
+    color: white;
+   margin-left: 80px;
+    margin-top: 80px;
+    font-weight: 100;
+    font-size: 45px;
+}
+p1{
+    position: absolute;
+    color: white;
+   margin-left: 80px;
+    margin-top: 150px;
+    font-size: 20px;
+   
+}
+button{
+  
+        position: absolute;
+       border-radius: 5px;
+       margin-left: 80px;
+        margin-top: 240px;
+        font-size: 15px;
+        width: 250px;
+        height: 50px;
+        border: none;
+        color: white;
+        background-color: rgb(20, 136, 175);
+       
+   
+}
+.side{
+    position: absolute;
+   margin-left: 1120px;
+}
+.navbar-nav :hover{
+    color: white;
+}
+.center2{
+    width: 100%;
+    height: 556px;
+    background-color: black;
+}
+.second{
+    margin-left: 500px;
+    margin-top: 80px;
+}
+#mov{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+#ear{
+    margin-top: 280px;
+    margin-left: 100px;
+}
+.center3{
+    width: 100%;
+    height: 556px;
+    background-color: white;
+    display: inline-flex;
+    
+    
+}
+#rent{
+    margin-left: -1250px;
+    margin-top: 350px;
+}
+
+#fav{
+    color: black;
+    font-size: 60px;
+
+}
+#wi{
+    color: black;
+    margin-top: 250px;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.boxs ul{
+    display: flex;
+    float: right;
+    list-style: none;
+    margin-left: 630px;
+    margin-top: 25px;
+   
+   
+}
+.boxs ul li{
+    margin-left: 10px;
+     float: right;
+}
+.box1{
+    width: 200px;
+    height: 140px;
+   background-image: linear-gradient(90deg,rgb(32, 165, 209),blue);
+   text-align: center;
+   padding-top: 50px;
+   color: white;
+   font-weight: 500;
+   font-size: 20px;
+
+ 
+}
+
+.box2{
+    width: 200px;
+    height: 140px;
+    background-image: linear-gradient(90deg,rgb(32, 165, 209),blue);
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+.box3{
+    width: 200px;
+    height: 140px;
+    background-image: linear-gradient(90deg,rgb(32, 165, 209),blue);
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+.boxs2 ul{
+    list-style: none;
+    margin-left: -662px;
+    margin-top: 175px;
+    display: flex;
+}
+.boxs2 ul li{
+    margin-left: 10px;
+}
+.boxs3 ul{
+    list-style: none;
+   margin-left: -662px;
+   margin-top: 325px;
+    display: flex;
+}
+.boxs3 ul li{
+    margin-left: 10px;
+}
+.boxs4 ul{
+    list-style: none;
+    margin-left: -662px;
+    margin-top: 475px;
+    display: flex;
+}
+.boxs4 ul li{
+    margin-left: 10px;
+}
+.center4{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    margin-top: 70px;
+    display: flex
+    
+}
+.mat{
+    color:white;
+    margin-top: 250px;
+    margin-left: 10px;
+    font-size: 23px;
+}
+.even{
+    margin-top: -200px;
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+ 
+    
+}
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(32, 33, 34);
+}
+.pr{
+    margin-left: 600px;
+    margin-top: 25px;
+}
+#ter a{ 
+    text-decoration: none;
+    font-size: larger;
+    font-weight: lighter;
+    margin-left: 475px;
+
+}
+span{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: lighter;
+    margin-left: 475px;
+color: gray;
+}
